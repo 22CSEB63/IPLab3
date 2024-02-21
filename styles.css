@@ -1,0 +1,118 @@
+.one
+{
+    background-color: rgb(0, 0, 58);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 1280px;
+    font-size: x-large;
+    color: cyan;
+    font-family: cursive;
+    text-align: center;
+    
+}
+.one:hover
+{
+    color: deeppink;
+    background-color: black;
+    
+}
+.two a:hover
+{
+    color: aqua;
+}
+.three
+{
+    text-align: center;
+    position: sticky;
+    top: 20px;
+    color: steelblue;
+    height: 5%;
+    width: 5%;
+    left: 325px;
+    top: 100px;
+    
+    
+}
+.four
+{
+    position: relative;
+    height: 10px;
+    top: 150px;
+
+}
+.five
+{
+    position: relative;
+    height: 10px;
+    width: 10px;
+    top: 140px;
+    left: 700px;
+}
+.six
+{
+    position: relative;
+    height: 10px;
+    width: 10px;
+    top: 600px;
+    left: 5px;
+}
+.seven
+{
+    position: relative;
+    height: 10px;
+    width: 10px;
+    top: 600px;
+    left: 5px;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 300px;
+    margin: 100px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+.form-control label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-control input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
